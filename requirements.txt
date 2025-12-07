@@ -1,0 +1,12 @@
+# Sociology Paper Analyzer - Python Dependencies
+
+# Optional: For PDF support (uncomment if needed)
+# PyPDF2>=3.0.0
+# pdfplumber>=0.10.0
+
+# Optional: For advanced NLP (uncomment if needed)
+# nltk>=3.8.0
+# spacy>=3.7.0
+
+# Core dependencies (using standard library only for basic version)
+# No additional dependencies required for basic text file analysis

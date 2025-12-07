@@ -1,0 +1,150 @@
+{
+  "filepath": "example_sociology_paper.txt",
+  "timestamp": "2025-12-07T08:24:02.241452",
+  "summary": {
+    "word_count": 1622,
+    "sentence_count": 101,
+    "avg_sentence_length": 16.059405940594058,
+    "paragraph_count": 65
+  },
+  "methodology": {
+    "qualitative": 15,
+    "quantitative": 1,
+    "mixed_methods": 2
+  },
+  "theories": {
+    "conflict_theory": {
+      "count": 6,
+      "terms": [
+        "inequality",
+        "power dynamics",
+        "oppression"
+      ]
+    },
+    "symbolic_interactionism": {
+      "count": 15,
+      "terms": [
+        "mead",
+        "impression management",
+        "goffman",
+        "generalized other",
+        "interactionism"
+      ]
+    },
+    "feminist_theory": {
+      "count": 18,
+      "terms": [
+        "patriarchy",
+        "gender roles",
+        "gender stratification",
+        "gender inequality",
+        "feminism",
+        "intersectionality",
+        "feminist"
+      ]
+    },
+    "social_constructionism": {
+      "count": 11,
+      "terms": [
+        "social construction",
+        "social reality",
+        "socially constructed",
+        "luckmann",
+        "berger"
+      ]
+    }
+  },
+  "concepts": {
+    "norms": 14,
+    "social control": 5,
+    "stratification": 2,
+    "habitus": 1,
+    "field": 1,
+    "socialization": 1,
+    "roles": 1,
+    "social change": 1
+  },
+  "components": {
+    "research_question": 3,
+    "sample": 1,
+    "findings": 12,
+    "limitations": 2,
+    "future_research": 3
+  },
+  "citations": {
+    "total_citations": 9,
+    "unique_citations": 8,
+    "sample_citations": [
+      "Luckmann (1966)",
+      "Goffman (1959)",
+      "Mead (1934)",
+      "Crenshaw (1989)",
+      "Castells (2010)",
+      "(Charmaz, 2006)",
+      "(Hine, 2015)",
+      "(Bourdieu, 1977)"
+    ]
+  },
+  "keywords": [
+    [
+      "gender",
+      49
+    ],
+    [
+      "identity",
+      31
+    ],
+    [
+      "online",
+      28
+    ],
+    [
+      "social",
+      25
+    ],
+    [
+      "performance",
+      19
+    ],
+    [
+      "communities",
+      19
+    ],
+    [
+      "community",
+      19
+    ],
+    [
+      "through",
+      17
+    ],
+    [
+      "individuals",
+      16
+    ],
+    [
+      "norms",
+      14
+    ],
+    [
+      "while",
+      12
+    ],
+    [
+      "spaces",
+      10
+    ],
+    [
+      "interaction",
+      10
+    ],
+    [
+      "research",
+      10
+    ],
+    [
+      "theory",
+      9
+    ]
+  ]
+}
